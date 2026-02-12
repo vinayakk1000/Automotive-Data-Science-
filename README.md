@@ -30,5 +30,6 @@ pandas: For data manipulation and preprocessing.
 
 matplotlib and seaborn: For data visualization and exploratory analysis.
 
-scikit-learn: For implementing machine learning algorithms and model evaluation.
+scikit-learn: For implementing machine learning algorithms and model evaluation..
+
 
